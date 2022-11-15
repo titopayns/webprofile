@@ -1,0 +1,46 @@
+*{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.about{
+	color: #3BECC6;
+}
+
+.Button1{
+	background-color: #3BECC6;
+}
+
+.skill{
+	background-color: #323232;
+	border-radius: 15px;
+}
+
+.Button2{
+	background-color: #3BECC6;
+}
+
+.navbar{
+	background-color: gray;
+	z-index: 1;
+	top: 0;
+}
+
+.footer{
+	font-size: 9px;
+}
+
+.background{
+	min-height: 100vh;
+	background-color: darkgray;
+	background-image: url(./images/bg.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	z-index: 0;
+	top: 0;
+}
+
+.Back{
+	text-decoration: none;
+	color: white;
+}
